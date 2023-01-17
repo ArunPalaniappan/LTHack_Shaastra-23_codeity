@@ -9,7 +9,7 @@ The Problem Statement requires us to use Transfer learning based CNN architectur
 
 ### Model
 
-I have taken a pre-trained **DenseNet-201** model, unfroze the last couple of layers to train on our dataset.  
+I have taken a pre-trained **DenseNet-201** model, unfroze the last layer to train on our dataset.  
 Here is a representation of the architecture:
 
 ![pipeline](./assets/dense.png)
