@@ -1,6 +1,6 @@
 # L&amp;T Hackathon Shaastra'23
 
-**Team Name**: `codeity` <br>
+**Team Name**: codeity <br>
 **Team Members**: Arun Palaniappan <br>
 
 ## Approach
